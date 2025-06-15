@@ -12,3 +12,4 @@ git merge develop
 git push origin main
 
 # 個人開発では、ローカルマージが良い
+# ブランチを見てください
